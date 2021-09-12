@@ -40,6 +40,9 @@
             <button type="button" onclick="change()"><b>check</b></button>
         </form>
     </center>
+    <footer>
+        @Copyright Akash Kumar Gupta
+    </footer>
 
     <script>
         function change() {
