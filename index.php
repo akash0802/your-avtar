@@ -41,7 +41,7 @@
         </form>
     </center>
     <footer>
-        @Copyright Akash Kumar Gupta
+        @Copyright Akash Kumar Gupta.
     </footer>
 
     <script>
